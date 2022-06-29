@@ -10,14 +10,12 @@ The Clog V2 is a 34-key split keyboard. It has the following features:
 - SplitKB puck support for tenting
 - EVQWGD001 roller support
 
-## A Picture
-
-![The Clog V2](./clog-v2.png)
+![One Half of the Clog V2](./pictures/clog-v2-left-half.jpg)
 
 ## How to Order
 
-The [clog-v2 ZIP](./clog-v2.zip) has everything you'll need to get this printed.
-You can order from [JLC](jlcpcb.com) by just uploading that ZIP archive and keeping
+The [gerber ZIP](./clog-v2.zip) has everything you'll need to get this printed.
+You can order from [JLC](https://jlcpcb.com) by just uploading that ZIP archive and keeping
 the default options. I'd suggest removing the order number, otherwise they'll put
 one on the board somewhere randomly.
 
@@ -49,3 +47,11 @@ I'd solder the parts in this order:
 - Batteries (To the +ve and -ve terminals)
 - The "bodge" wire from the +ve charging pad on the controller to the "Bdg" hole
 - Choc switches
+
+## Pictures
+
+![The Clog V2](./pictures/clog-v2-both-halves.jpg)
+
+![Tented with Pucks and Manfrotto Tripods](./pictures/clog-v2-tented.jpg)
+
+![The Clog Logo](./pictures/clog-v2-logo.jpg)
